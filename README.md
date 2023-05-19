@@ -1,2 +1,5 @@
-# news-explorer-api
-final project's backend
+=======
+
+### news-explorer-api
+
+backend of the final project
